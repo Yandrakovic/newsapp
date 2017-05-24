@@ -10,8 +10,8 @@ señalaba y descubrí que era una errata en template. Sin embargo, una vez arregla
 en google pero no pude encontrar una solución al mismo o yo no fui capaz de encontrarla, claro.
 
 Estaba claro que el tutorial no iba a poder completarlo o al menos ejecutarlo ya que no me lanzaba ya localhost:8000 aunque aún así envíe al repositorio todos los
-archivos que había creado y aún avancé un poco más con HTML pero como no podía ejecutar index.html el avanca tampoco se veía mucho. Aún así, hasta donde he llegado
-he ido mandando los archivos al repositorio. En el punto del csv que da error, me descargué el que tú adjuntaste en el foro y sin ningún problema lo añadí en la carpeta
+archivos que había creado y aún avancé un poco más con HTML pero como no podía ejecutar index.html el avance tampoco se veía mucho. Aún así, hasta donde he llegado
+he ido mandando los archivos al repositorio. En el punto del csv que da error, me descargué el que adjuntaste en el foro y sin ningún problema lo añadí en la carpeta
 que había que crear para ello.
 
 Esta ha sido un poco la historia de mi práctica fallida de newsapp.
